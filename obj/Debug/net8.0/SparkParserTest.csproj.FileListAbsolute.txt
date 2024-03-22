@@ -1,0 +1,17 @@
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\bin\Debug\net8.0\SparkParserTest.exe
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\bin\Debug\net8.0\SparkParserTest.deps.json
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\bin\Debug\net8.0\SparkParserTest.runtimeconfig.json
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\bin\Debug\net8.0\SparkParserTest.dll
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\bin\Debug\net8.0\SparkParserTest.pdb
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\obj\Debug\net8.0\SparkParserTest.csproj.AssemblyReference.cache
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\obj\Debug\net8.0\SparkParserTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\obj\Debug\net8.0\SparkParserTest.AssemblyInfoInputs.cache
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\obj\Debug\net8.0\SparkParserTest.AssemblyInfo.cs
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\obj\Debug\net8.0\SparkParserTest.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\obj\Debug\net8.0\SparkPar.E66E243F.Up2Date
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\obj\Debug\net8.0\SparkParserTest.dll
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\obj\Debug\net8.0\refint\SparkParserTest.dll
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\obj\Debug\net8.0\SparkParserTest.pdb
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\obj\Debug\net8.0\SparkParserTest.genruntimeconfig.cache
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\obj\Debug\net8.0\ref\SparkParserTest.dll

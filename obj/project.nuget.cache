@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ziYxJionQPI7OBOidJ9sHSaUbrtsCp1Kicb4h32RvcP0gHSgX6LOfHOj4kYjOTIcjNHV6jh5alXTG7c2F+rO8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anast\\source\\repos\\SparkParserTest\\SparkParserTest\\SparkParserTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anast\\.nuget\\packages\\htmlagilitypack\\1.11.59\\htmlagilitypack.1.11.59.nupkg.sha512"
+  ],
+  "logs": []
+}
