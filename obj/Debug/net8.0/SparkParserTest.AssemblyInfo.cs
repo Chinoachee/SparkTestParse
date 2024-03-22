@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SparkParserTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1669d6ccfd90cb85f7ff90c75eb8757d58a99413")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18d4986cf49892a7659d7e028fca7a15b19f057f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SparkParserTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SparkParserTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
