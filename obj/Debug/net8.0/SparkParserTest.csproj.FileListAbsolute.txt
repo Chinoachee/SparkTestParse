@@ -15,3 +15,4 @@ C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\obj\Debug\net8.0\ref
 C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\obj\Debug\net8.0\SparkParserTest.pdb
 C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\obj\Debug\net8.0\SparkParserTest.genruntimeconfig.cache
 C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\obj\Debug\net8.0\ref\SparkParserTest.dll
+C:\Users\anast\source\repos\SparkParserTest\SparkParserTest\obj\Debug\net8.0\SparkParserTest.sourcelink.json

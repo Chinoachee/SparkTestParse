@@ -10,14 +10,18 @@ namespace SparkParserTest
     {
         public string Name { get; set; }
         public decimal Price { get; set; }
-        public Item(string name, decimal price)
+        public string Article { get; set; }
+        public string Count { get; set; }
+        public Item(string name, decimal price, string article,string count)
         {
             Name = name;
             Price = price;
+            Article = article;
+            Count = count;
         }
         public override string ToString()
         {
-            return Name + ";" + Price;
+            return Name + ";" + Price + ";" + Article + ";" + Count;
         }
     }
 }
